@@ -6,7 +6,7 @@ Below is a list of our public repositories organised mainly into Time Series Cla
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
 * [2024 VistaMilk-challenge-lactose-prediction-regression (1st place)](https://github.com/mlgig/VM-challenge-lactose-prediction-2024)
-* [2022 VistaMilk-challenge-diet-classification(1st place)](https://github.com/mlgig/vistamilk_diet_challenge)
+* [2022 VistaMilk-challenge-diet-classification (1st place)](https://github.com/mlgig/vistamilk_diet_challenge)
 * [2021 VistaMilk-spectroscopy-challenge-predict-milk-traits-regression (2nd place)](https://github.com/mlgig/vistamilk-spectroscopy-challenge)
 * [2014 SNOW Data Challenge (1st prize): Twitter Topics (1st place)](https://github.com/mlgig/twitter-topics)
 
