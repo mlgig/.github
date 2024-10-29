@@ -15,6 +15,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
 * [MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
 * [Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
+* [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
   
 ### Applications
 * [2023 An Examination of Wearable Sensors versus Video Data Capture for Human Exercise Classification](https://github.com/mlgig/Video_vs_Shimmer_ECML_2023)
