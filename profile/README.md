@@ -37,6 +37,11 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [SEQuence Learner Gradient Boosting Machine](https://github.com/mlgig/seqlgbm) 
 * [SqLoss: Sequence Regression with Squared Error Loss in All-Subsequence Space](https://github.com/mlgig/SqLoss)
 * [SEQL: Sequence Learner for Sequence Classification in All-Subsequence Space](https://github.com/mlgig/seql-sequence-learner)
+
+## Text Mining
+* [Text Summarisation: Sentence Compression with Reinforcement Learning](https://github.com/complementizer/rl-sentence-compression)
+* [News Timeline Summarisation](https://github.com/complementizer/news-tls)
+* [WCEP Dataset for Multi-document Summarisation](https://github.com/complementizer/wcep-mds-dataset)
 <!--
 
 **Here are some ideas to get you started:**
