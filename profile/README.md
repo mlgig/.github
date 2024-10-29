@@ -1,7 +1,7 @@
 # Welcome to MLGIG!
 
 This is the home for open code, data and research publications for MLGIG (Machine Learning Research Group of [Dr Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim)).
-Below is a list of our public repositories organised mainly into Time Series Classification (algorithms, applications), Time Series Explanation (algorithms, applications) and Data Challenges.
+Below is a list of our public repositories organised mainly into Time Series Classification (algorithms, applications), Time Series Explanation and Data Challenges.
 
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
@@ -19,7 +19,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
   
 ### Applications
-* [Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](https://github.com/mlgig/ts_fall_detection)
+* [2024 Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](https://github.com/mlgig/ts_fall_detection)
 * [2023 An Examination of Wearable Sensors versus Video Data Capture for Human Exercise Classification](https://github.com/mlgig/Video_vs_Shimmer_ECML_2023)
 * [2022 Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers](https://github.com/mlgig/BodyMTS_2021)
 * [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
@@ -30,8 +30,13 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2024 AMEE: Robust explainer recommendation for time series classification](https://github.com/mlgig/amee)
 * [2023 Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC)
 
+## Time Series Analysis
+* [Machine Vision-Enabled Sports Performance Analysis](https://github.com/mlgig/mvespa)
+
 ## Sequence Learning
+* [SEQuence Learner Gradient Boosting Machine](https://github.com/mlgig/seqlgbm) 
 * [SqLoss: Sequence Regression with Squared Error Loss in All-Subsequence Space](https://github.com/mlgig/SqLoss)
+* [SEQL: Sequence Learner for Sequence Classification in All-Subsequence Space](https://github.com/mlgig/seql-sequence-learner)
 <!--
 
 **Here are some ideas to get you started:**
