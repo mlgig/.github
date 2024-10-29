@@ -15,9 +15,11 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
 * [MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
 * [Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
+* [Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms](https://github.com/mlgig/TabularModelsforTSC)
 * [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
   
 ### Applications
+* [Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](https://github.com/mlgig/ts_fall_detection)
 * [2023 An Examination of Wearable Sensors versus Video Data Capture for Human Exercise Classification](https://github.com/mlgig/Video_vs_Shimmer_ECML_2023)
 * [2022 Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers](https://github.com/mlgig/BodyMTS_2021)
 * [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
@@ -27,6 +29,9 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2024 Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](https://github.com/mlgig/xai4mtsc_eval_actionability)
 * [2024 AMEE: Robust explainer recommendation for time series classification](https://github.com/mlgig/amee)
 * [2023 Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC)
+
+## Sequence Learning
+* [SqLoss: Sequence Regression with Squared Error Loss in All-Subsequence Space](https://github.com/mlgig/SqLoss)
 <!--
 
 **Here are some ideas to get you started:**
