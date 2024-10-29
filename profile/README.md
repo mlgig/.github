@@ -12,10 +12,19 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 
 ## Time Series Classification
 ### Algorithms
-* []()
+* [MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
+* [MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
+* [Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
+  
 ### Applications
+* [2023 An Examination of Wearable Sensors versus Video Data Capture for Human Exercise Classification](https://github.com/mlgig/Video_vs_Shimmer_ECML_2023)
+* [2022 Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers](https://github.com/mlgig/BodyMTS_2021)
+* [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
 
 ## Time Series Explanation
+*  []()
+* []()
+* []()
 <!--
 
 **Here are some ideas to get you started:**
