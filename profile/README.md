@@ -5,10 +5,10 @@ Below is a list of our public repositories organised mainly into Time Series Cla
 
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
-* [VistaMilk-challenge-lactose-prediction-regression-2024 (1st place)](https://github.com/mlgig/VM-challenge-lactose-prediction-2024)
-* [VistaMilk-challenge-diet-classification-2022 (1st place)](https://github.com/mlgig/vistamilk_diet_challenge)
-* [VistaMilk-spectroscopy-challenge-predict-milk-traits-regression-2021 (2nd place)](https://github.com/mlgig/vistamilk-spectroscopy-challenge)
-* [SNOW Data Challenge 2014 (1st prize): Twitter Topics (1st place)](https://github.com/mlgig/twitter-topics)
+* [2024 VistaMilk-challenge-lactose-prediction-regression (1st place)](https://github.com/mlgig/VM-challenge-lactose-prediction-2024)
+* [2022 VistaMilk-challenge-diet-classification(1st place)](https://github.com/mlgig/vistamilk_diet_challenge)
+* [2021 VistaMilk-spectroscopy-challenge-predict-milk-traits-regression (2nd place)](https://github.com/mlgig/vistamilk-spectroscopy-challenge)
+* [2014 SNOW Data Challenge (1st prize): Twitter Topics (1st place)](https://github.com/mlgig/twitter-topics)
 
 ## Time Series Classification
 ### Algorithms
@@ -22,9 +22,10 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
 
 ## Time Series Explanation
-*  []()
-* []()
-* []()
+* [2024 tsCaptum - A library for univariate and multivariate time series explanation]()
+* [2024 Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](https://github.com/mlgig/xai4mtsc_eval_actionability)
+* [2024 AMEE: Robust explainer recommendation for time series classification](https://github.com/mlgig/amee)
+* [2023 Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC)
 <!--
 
 **Here are some ideas to get you started:**
