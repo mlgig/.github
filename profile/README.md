@@ -25,7 +25,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
 
 ## Time Series Explanation
-* [2024 tsCaptum - A library for univariate and multivariate time series explanation]()
+* [2024 tsCaptum - A library for univariate and multivariate time series explanation](https://github.com/mlgig/tscaptum)
 * [2024 Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](https://github.com/mlgig/xai4mtsc_eval_actionability)
 * [2024 AMEE: Robust explainer recommendation for time series classification](https://github.com/mlgig/amee)
 * [2023 Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC)
