@@ -1,7 +1,7 @@
 # Welcome to MLGIG!
 
 This is the home for open code, data and research publications for MLGIG (Machine Learning Research Group of [Dr Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim)).
-Below is a list of our public repositories organised mainly into Time Series Classification (algorithms, applications), Time Series Explanation and Data Challenges.
+Below is a list of our public repositories organised mainly into Time Series Classification (algorithms, applications), Time Series Explanation, Data Challenges, Sequence Learning and Text Mining.
 
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
