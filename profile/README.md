@@ -14,7 +14,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 ### Algorithms
 * [MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
 * [MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
-* [Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
+* [Fast Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
 * [Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms](https://github.com/mlgig/TabularModelsforTSC)
 * [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
   
