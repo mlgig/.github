@@ -12,12 +12,12 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 
 ## Time Series Classification
 ### Algorithms
-* [An Empirical Evaluation of Foundation Models for Multivariate Time Series Classification](https://github.com/mlgig/FM4MTSC)
-* [MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
-* [MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
-* [Fast Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
-* [Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms](https://github.com/mlgig/TabularModelsforTSC)
-* [An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
+* [2025 An Empirical Evaluation of Foundation Models for Multivariate Time Series Classification](https://github.com/mlgig/FM4MTSC)
+* [2024 Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms](https://github.com/mlgig/TabularModelsforTSC)
+* [2023 Fast Channel Selection for Multivariate Time Series Classification](https://github.com/mlgig/ChannelSelectionMTSC)
+* [2022 MRSQM: Multiple Representation Sequence Miner](https://github.com/mlgig/mrsqm)
+* [2019 MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
+* [2020 An Examination of the State-of-the-Art for Multivariate Time Series Classification](https://github.com/mlgig/mtsc_benchmark)
   
 ### Applications
 * [2024 Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](https://github.com/mlgig/ts_fall_detection)
