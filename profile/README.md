@@ -27,6 +27,8 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 
 ## Time Series Explanation
 * [2025 TSHAP: Fast and Exact SHAP for Explaining Time Series Classification and Regression](https://github.com/mlgig/tshap/tree/main)
+* [2025 An Empirical Evaluation of Factors Affecting
+SHAP Explanation of Time Series Classification](https://github.com/davide-serramazza/segment_SHAP)
 * [2024 tsCaptum - A library for univariate and multivariate time series explanation](https://github.com/mlgig/tscaptum)
 * [2024 Improving the Evaluation and Actionability of Explanation Methods for Multivariate Time Series Classification](https://github.com/mlgig/xai4mtsc_eval_actionability)
 * [2024 AMEE: Robust explainer recommendation for time series classification](https://github.com/mlgig/amee)
