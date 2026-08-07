@@ -26,6 +26,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2021 Interpretable Classification of Human Exercise Videos through Pose Estimation and Multivariate Time Series Analysis](https://github.com/mlgig/video-pose-tsc)
 
 ## Time Series Explanation
+* [2026 drXAI: Scaling Time Series Classification via XAI-Driven Data Reduction](https://github.com/mlgig/drXAI)
 * [2025 TSHAP: Fast and Exact SHAP for Explaining Time Series Classification and Regression](https://github.com/mlgig/tshap/tree/main)
 * [2025 An Empirical Evaluation of Factors Affecting
 SHAP Explanation of Time Series Classification](https://github.com/davide-serramazza/segment_SHAP)
