@@ -20,6 +20,8 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 * [2019 MRSEQL: Multiple Representation Sequence Learner](https://github.com/mlgig/mrseql)
   
 ### Applications
+* [2026 Beyond Simulated Benchmarks: Evaluating Motion Representations for Fall Detection Under Real-World Data Scarcity](https://github.com/mlgig/fall-lm)
+* [2025 Costream: Cost-Sensitive Streaming Event Detection](https://github.com/mlgig/costream)
 * [2024 Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](https://github.com/mlgig/ts_fall_detection)
 * [2023 An Examination of Wearable Sensors versus Video Data Capture for Human Exercise Classification](https://github.com/mlgig/Video_vs_Shimmer_ECML_2023)
 * [2022 Fast and Robust Video-Based Exercise Classification via Body Pose Tracking and Scalable Multivariate Time Series Classifiers](https://github.com/mlgig/BodyMTS_2021)
