@@ -9,7 +9,7 @@ The Keynotes section provides overviews of our work over time.
 * [2025 tempXAI, ECML-PKDD: Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification]()
 * [2024 MLGIG Overview Presentation](https://drive.google.com/file/d/1GRa2jO0BxIS4V9Vp_rRNkbkcKrsNXnLt/view?usp=share_link) Provides a short overview of some of our ongoing projects.
 * [2023 Text2Story, ECIR23: Structured Summarisation of News at Scale]()
-* [2023 ML-Labs CRT Overview: Reflections on Using Robot Racing Cars for Teaching Machine Learning]()
+* [2023 HCAIEP, ML-Labs CRT Overview: Reflections on Using Robot Racing Cars for Teaching Machine Learning]()
 * [2021 AI4Narratives, IJCAI: The Ants Have Megaphones Now: Text Mining and Summarization for News and Social Media Streams]()
 * [2021 ROAIDays: Time Series Classification: Tradeoffs between Accuracy, Efficiency and Explanation]()
 * [2019 NFMCP, ECML-PKDD: Effective Linear Models for Learning with Sequences and Time Series]() 
