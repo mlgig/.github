@@ -23,6 +23,7 @@ Where we apply our knowledge of machine learning modeling and time series modeli
 
 ## Time Series Classification
 ### Algorithms
+* [2026 Random Initialization as a Baseline for Time Series Foundation Models](https://github.com/mlgig/tsfm-random-init-baselines)
 * [2026 Revisiting WEASEL 2.0: Reproduction, Sensitivity, and an Adaptive Ensemble-Size Rule](https://arxiv.org/abs/2608.18021v1)
 * [2025 An Empirical Evaluation of Foundation Models for Multivariate Time Series Classification](https://github.com/mlgig/FM4MTSC)
 * [2024 Back to Basics: A Sanity Check on Modern Time Series Classification Algorithms](https://github.com/mlgig/TabularModelsforTSC)
