@@ -10,9 +10,9 @@ The Keynotes section provides overviews of our work over time.
 * [2024 MLGIG Overview Presentation](https://drive.google.com/file/d/1GRa2jO0BxIS4V9Vp_rRNkbkcKrsNXnLt/view?usp=share_link) Provides a short overview of some of our ongoing projects.
 * [2023 Text2Story, ECIR23: Structured Summarisation of News at Scale](https://drive.google.com/file/d/1715lRPK0fAevPtjlg-a3VV-wqv4CEfxb/view?usp=sharing)
 * [2023 HCAIEP, ML-Labs CRT Overview: Reflections on Using Robot Racing Cars for Teaching Machine Learning](https://drive.google.com/file/d/1zjhqvvgWg-s_pDEJf4_bBL0nKyqCIn3i/view?usp=sharing)
-* [2021 AI4Narratives, IJCAI: The Ants Have Megaphones Now: Text Mining and Summarization for News and Social Media Streams]()
-* [2021 ROAIDays: Time Series Classification: Tradeoffs between Accuracy, Efficiency and Explanation]()
-* [2019 NFMCP, ECML-PKDD: Effective Linear Models for Learning with Sequences and Time Series]() 
+* [2021 AI4Narratives, IJCAI: The Ants Have Megaphones Now: Text Mining and Summarization for News and Social Media Streams](https://drive.google.com/file/d/1-mSiCmXiNoULVho3jn-vJPrIISAq6Kjz/view?usp=sharing)
+* [2021 ROAIDays: Time Series Classification: Tradeoffs between Accuracy, Efficiency and Explanation](https://drive.google.com/file/d/1TxmzjUDe7iBHmpTrurmPCyB16SxkmRnj/view?usp=sharing)
+* [2019 NFMCP, ECML-PKDD: Effective Linear Models for Learning with Sequences and Time Series](https://drive.google.com/file/d/1E7fS4cc6Rqpe2bpO3cuohm6WZuadFFJS/view?usp=sharing) 
 
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
