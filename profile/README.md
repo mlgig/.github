@@ -5,8 +5,8 @@ Below is a list of our public repositories organised mainly into Data Challenges
 The Keynotes section provides overviews of our work over time. 
 
 ## Invited Keynote Talks
-* [2026 XKDD, ECML-PKDD: Evaluating Explanation Methods for Time Series Classification: Challenges and Resources]()
-* [2025 tempXAI, ECML-PKDD: Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification]()
+* [2026 XKDD, ECML-PKDD: Evaluating Explanation Methods for Time Series Classification: Challenges and Resources](https://drive.google.com/file/d/1SEidLZk1cmxWppLjw91bRI110WWHbY99/view?usp=share_link)
+* [2025 tempXAI, ECML-PKDD: Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification](https://drive.google.com/file/d/1SEidLZk1cmxWppLjw91bRI110WWHbY99/view?usp=share_link)
 * [2024 MLGIG Overview Presentation](https://drive.google.com/file/d/1GRa2jO0BxIS4V9Vp_rRNkbkcKrsNXnLt/view?usp=share_link) Provides a short overview of some of our ongoing projects.
 * [2023 Text2Story, ECIR23: Structured Summarisation of News at Scale]()
 * [2023 HCAIEP, ML-Labs CRT Overview: Reflections on Using Robot Racing Cars for Teaching Machine Learning]()
