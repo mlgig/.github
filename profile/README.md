@@ -1,7 +1,18 @@
 # Welcome to MLGIG!
 
 This is the home for open code, data and research publications for MLGIG (Machine Learning Research Group of [Dr Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim)).
-Below is a list of our public repositories organised mainly into Data Challenges, Time Series Classification (algorithms, applications), Time Series Explanation, Sequence Learning and Text Mining. A recent [presentation](https://drive.google.com/file/d/1GRa2jO0BxIS4V9Vp_rRNkbkcKrsNXnLt/view?usp=share_link) provides a short overview of some of these projects.
+Below is a list of our public repositories organised mainly into Data Challenges, Time Series Classification (algorithms, applications), Time Series Explanation, Sequence Learning and Text Mining. 
+The Keynotes section provides overviews of our work over time. 
+
+## Invited Keynote Talks
+* [2026 XKDD, ECML-PKDD: Evaluating Explanation Methods for Time Series Classification: Challenges and Resources]()
+* [2025 tempXAI, ECML-PKDD: Beyond Accuracy: The Dual Challenge of Effective and Explainable Time Series Classification]()
+* [2024 MLGIG Overview Presentation](https://drive.google.com/file/d/1GRa2jO0BxIS4V9Vp_rRNkbkcKrsNXnLt/view?usp=share_link) Provides a short overview of some of our ongoing projects.
+* [2023 Text2Story, ECIR23: Structured Summarisation of News at Scale]()
+* [2023 ML-Labs CRT Overview: Reflections on Using Robot Racing Cars for Teaching Machine Learning]()
+* [2021 AI4Narratives, IJCAI: The Ants Have Megaphones Now: Text Mining and Summarization for News and Social Media Streams]()
+* [2021 ROAIDays: Time Series Classification: Tradeoffs between Accuracy, Efficiency and Explanation]()
+* [2019 NFMCP, ECML-PKDD: Effective Linear Models for Learning with Sequences and Time Series]() 
 
 ## Data Challenges
 Where we apply our knowledge of machine learning modeling and time series modeling:
